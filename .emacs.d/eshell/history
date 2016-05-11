@@ -1,0 +1,13 @@
+ls
+cd development/go/src/
+ls
+mkdir mygoscratch
+cd mygoscratch/
+ls
+mkdir ch1
+cd ch1
+cd ../../gopl.io/ch1
+ls
+cd ../../mygoscratch/ch1
+mkdir echo
+cd ~

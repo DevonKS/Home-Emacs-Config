@@ -1,0 +1,7 @@
+
+(defun create-class()
+  (interactive)
+  (message (thing-at-point 'symbol))
+  )
+
+(provide 'create-class)

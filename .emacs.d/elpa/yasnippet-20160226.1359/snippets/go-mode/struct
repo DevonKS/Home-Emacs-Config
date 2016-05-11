@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: struct
+# key: struct
+# --
+type ${1:StructName} struct {
+     ${2:VariableName}  ${3:type}
+     $0
+}

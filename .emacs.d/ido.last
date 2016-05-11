@@ -1,0 +1,115 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/devon/Documents/Emacs-Config/" . ".emacs.d/")
+ ("/home/devon/Documents/" . "Emacs-Config/")
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/data/service/" . "mock/")
+ ("/home/devon/Desktop/" . "scripts/")
+ ("/home/" . "devon/")
+ ("/" . "home/")
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/business/" . "service/")
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/data/" . "service/")
+ ("/home/devon/development/go/src/github.com/microbusinesses/" . "UserService/")
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/" . "business/")
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/endpoint/" . "message/")
+ ("/home/devon/.emacs.d/" . "lisp/")
+ ("/home/devon/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/devon/Documents/Emacs-Config/.emacs.d/"
+ "/home/devon/Documents/Emacs-Config/"
+ "/home/devon/.emacs.d/"
+ "/home/devon/"
+ "/home/devon/Documents/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/data/service/"
+ "/home/devon/Desktop/scripts/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/data/service/mock/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/business/service/"
+ "/home/devon/Desktop/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/data/service/mocks/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/endpoint/"
+ "/home/devon/development/go/src/github.com/microbusinesses/SignupService/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/endpoint/message/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/endpoint/transport/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/business/contract/"
+ "/home/devon/development/go/src/github.com/microbusinesses/UserService/data/contract/"
+ "/home/devon/.emacs.d/lisp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ ".emacs"
+ "copy-emacs-config.sh"
+ "DatabaseScript.cql"
+ "UserDataServiceDeleteIntegration_test.go"
+ "UserDataService.go"
+ "UserDataServiceReadIntegration_test.go"
+ "UserDataServiceCreateIntegration_test.go"
+ "start-containers"
+ ".bashrc"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/devon/Documents/Emacs-Config/.emacs.d/" (22322 65492 137673 942000) "auto-save-list/" "snippets/" "init.el" "recentf" "./" "../" "init.el~" "elpa/" "ido.last" "ac-comphist.dat" "eshell/" "lisp/" "gosense/")
+
+ ("/home/devon/Documents/Emacs-Config/" (22323 256 113681 976000) ".emacs.d/" "./" "../" ".emacs")
+
+ ("/home/devon/" (22323 23 681675 751000) ".gksu.lock" "create-user-script.sh" ".gnome2_private/" ".gconf/" ".xfce4-session.verbose-log" ".mozilla/" "emacsbackup/" "junk.go" ".emacs.d/" ".macromedia/" ".cache/" ".vnc/" "Music/" ".dbus/" ".adobe/" ".lesshst" ".bash_logout" "scratch.go~" ".gtkrc-2.0" "./" "../" ".gnupg/" ".local/" "Pictures/" ".ssh/" ".gnome/" ".xfce4-session.verbose-log.last" "#scratch.go#" ".xsession.BACKUP" ".profile" "development/" "Desktop/" "junk.go~" ".gitconfig" ".config/" ".emacs" "microbusinesses/" "VirtualBox VMs/" "Documents/" ".ICEauthority" ".dmrc" ".Skype/" ".bashrc~" "scratch.go" ".bashrc" ".thumbnails/" "Public/" ".xscreensaver" "Downloads/" ".xsession-errors" ".linuxmint/" ".emacs~" ".Xauthority" "Calibre Library/" "Videos/" ".gtkrc-xfce" ".pki/" "#junk.go#" ".bash_history" "Templates/" ".gnome2/")
+
+ ("/home/devon/Documents/" (22322 65378 193670 891000) "Emacs-Config/" "copy-emacs-config.sh" "./" "../" "Emacs-Backup/")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/data/contract/" (22322 65130 953664 270000) "./" "../" "UserDataServiceContract.go")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/endpoint/transport/" (22322 62982 317606 732000) "decoders.go" "encoders.go" "./" "../")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/endpoint/" (22305 61704 342224 405000) "handlers.go" "./" "../" "message/" "transport/" "endpoints.go")
+
+ ("/home/devon/Desktop/" (22322 60427 297538 310000) "statements Savings.pdf" "evil-colours-hack" "statements chequing 2.pdf" "emacs-c#-setup" "Todo" "./" "../" "statements chequing 1.pdf" "scripts/" "startcassandra.sh" "stopcassandra.sh" ".emacs" "curl-commands" "cool emacs stuff")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/business/service/" (22322 65115 773663 864000) "./" "../" "UserService.go")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/data/service/" (22322 62982 453606 735000) "UserDataServiceRead_test.go" "./" "../" "UserDataServiceCreateIntegration_test.go" "UserDataServiceUpdateIntegration_test.go" "UserDataServiceDelete_test.go" "UserDataService.go" "mock/" "UserDataServiceReadIntegration_test.go" "UserDataServiceCommon_test.go" "UserDataServiceCreate_test.go" "UserDataServiceUpdate_test.go" "service.test" "UUIDGeneratorService.go" "UserDataServiceDeleteIntegration_test.go" "UUIDGeneratorServiceImpl.go")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/" (22322 62982 449606 735000) "business/" "coverage.bash" "README.md" ".gitignore" "./" "../" "LICENSE" "config/" "endpoint/" ".travis.yml" "data/" ".git/" "main.go" "Dockerfile" "DatabaseScript.cql")
+
+ ("/home/devon/.emacs.d/" (22322 65199 389666 103000) "auto-save-list/" "snippets/" "init.el" "recentf" "./" "../" "init.el~" "elpa/" "ido.last" "ac-comphist.dat" "eshell/" "lisp/" "gosense/")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/data/service/mock/" (22305 54604 566034 279000) "./" "../" "MockUUIDGeneratorService.go")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/business/contract/" (22286 4129 765594 95000) "./" "../" "UserServiceContract.go")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/endpoint/message/" (22286 4264 421593 432000) "RequestMessages.go" "./" "../" "ResponseMessages.go")
+
+ ("/home/devon/Desktop/scripts/" (22303 12226 221772 475000) "start-containers-pull-latest" "./" "../" "remove-all-containers" "start-containers")
+
+ ("/home/" (22222 37740 758014 646000) "devon/" "./" "../")
+
+ ("/home/devon/development/" (22222 41199 551417 150000) "./" "../" "go/")
+
+ ("/home/devon/development/go/" (22222 41228 855417 935000) "pkg/" "src/" "./" "../" "bin/")
+
+ ("/home/devon/development/go/src/" (22259 48018 580762 537000) "github.com/" "src" "./" "../" "gopl.io/" "9fans.net/" "mygoscratch/" "test.go" "gopkg.in/" "golang.org/")
+
+ ("/home/devon/development/go/src/github.com/" (22259 25957 992171 773000) "go-kit/" "gocql/" "./" "../" "dougm/" "rogpeppe/" "golang/" "nsf/" "microbusinesses/" "dominikh/" "hailocab/" "kisielk/" "onsi/")
+
+ ("/home/devon/.emacs.d/lisp/" (22283 19434 334486 963000) "init-powerline.el~" "./" "../" "init-powerline.el")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/business/" (22274 15238 950309 47000) "./" "../" "service/" "domain/" "contract/")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/UserService/data/" (22274 12875 762270 736000) "shared/" "./" "../" "service/" "contract/")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/SignupService/" (22283 23116 650468 828000) "README.md" ".gitignore" "./" "../" "LICENSE" "service/" "domain/" ".travis.yml" "contract/" ".git/" "main.go" "DatabaseScript.cql")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/" (22274 12797 902269 474000) "UserService/" "./" "../" "Micro-Businesses-Core/" "SignupService/")
+
+ ("/home/devon/development/go/src/github.com/microbusinesses/SignupService/service/" (22283 23027 774469 266000) "SignupDataService.go" "./" "../" "SignupServiceSignup_test.go" "service.test" "UUIDGeneratorService.go" "UUIDGeneratorServiceImpl.go" "SignupService.go")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
