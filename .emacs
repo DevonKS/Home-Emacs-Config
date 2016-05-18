@@ -210,3 +210,5 @@
 (add-to-list 'load-path "~/.emacs.d/gosense")
 (require 'create-struct)
 
+;; Clojure Setup
+(setq cider-lein-command "~/bin/lein")
